@@ -1,7 +1,7 @@
 {
-  "status": "BOOTING",
+  "status": "LIVE",
   "engine": "h4ckf0r0day/obscura (Omni-Nexus v1.4)",
-  "mcp_url": "",
-  "gui_url": "",
-  "updated_at": "2026-11-13T23:31:11Z"
+  "mcp_url": "https://phase-success-binding-maritime.trycloudflare.com/mcp",
+  "gui_url": "https://phase-success-binding-maritime.trycloudflare.com/",
+  "updated_at": "2026-11-13T23:31:40Z"
 }
